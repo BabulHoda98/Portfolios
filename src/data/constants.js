@@ -10,7 +10,8 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/BabulHoda98",
   resume:
-    "https://drive.google.com/file/d/1L4RCLbO0hS4r17WrJPGe8tBd1Z8D1bor/view",
+    // "https://drive.google.com/file/d/1L4RCLbO0hS4r17WrJPGe8tBd1Z8D1bor/view",
+    "https://drive.google.com/file/d/18lYdpd94UxNfOG_BCdoYRS5y-3MEYSF6/view",
   linkedin: "https://www.linkedin.com/in/babul-hoda-7b361a1b8",
   twitter: "https://x.com/BabulHoda2?t=4ZIaSzkt3EhsOCp-ZodR0g&s=08",
   insta: "https://www.instagram.com/babulhoda?igsh=anVmamtuaXJ1bTk1",
